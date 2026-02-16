@@ -1,5 +1,5 @@
-#Yo Dave here wellknown As **CreedTheDEV
-** Your Frontend / Aspiring AI engineer
+Yo Dave here wellknown As CreedTheDEV
+Your Frontend / Aspiring AI engineer
 ### ✍️ Random Dave Thoughts
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
