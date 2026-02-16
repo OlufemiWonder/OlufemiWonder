@@ -1,6 +1,6 @@
 #Yo Dave here wellknown As **CreedTheDEV
 ** Your Frontend / Aspiring AI engineer
-### ✍️ Random Dev Quote
+### ✍️ Random Dave Thoughts
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
